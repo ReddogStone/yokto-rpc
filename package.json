@@ -1,0 +1,18 @@
+{
+  "name": "yokto-rpc",
+  "version": "0.1.0",
+  "author": {
+    "name": "Elshad Shirinov",
+    "email": "thereddog@gmx.net"
+  },
+  "description": "Minimal RPC library",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reddogstone/yokto-rpc.git"
+  },
+  "homepage": "https://github.com/reddogstone/yokto-rpc"
+}
